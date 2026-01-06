@@ -7,3 +7,5 @@
 # kakas
  # koko
  # ks
+# dnv
+# akari
